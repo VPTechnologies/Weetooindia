@@ -6,7 +6,7 @@ This project presents a comprehensive website and mobile application designed to
 
 Versatile Design: A cohesive and adaptive layout that ensures a seamless experience across web and mobile.
 
-Service Directory: An extensive list of home services including cleaning, plumbing, electrical work, and more.
+Service Directory: An extensive list of home services including beauty treatments, haircuts, massage therapy, yoga,physiotherapy and more.
 
 User Reviews and Ratings: Allow users to make informed decisions based on community feedback.
 
